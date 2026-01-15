@@ -90,7 +90,9 @@ Choosing a career path has become increasingly complex due to rapid technologica
 ---
 ## 📷 ScreenShots
 <img width="3807" height="1758" alt="Screenshot 2026-01-15 165950" src="https://github.com/user-attachments/assets/9623a552-bbbf-4cd0-8753-017f5e5b4b90" />
+
 ---
+
 <img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/57996288-d2c6-460f-9d35-7247cd637ef5" />
 
 ---
