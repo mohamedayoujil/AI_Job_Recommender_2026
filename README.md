@@ -1,7 +1,7 @@
 
 # 🚀 AI Job Recommender
 
-An **AI-powered career recommendation platform** that maps user skills to real-world job roles, estimated UAE salaries, relevant certifications, and AI impact analysis — helping students and professionals make informed career decisions in an AI-driven job market.
+Career recommendation platform that provides AI impact analysis and skill-based job recommendations, helping students and professionals navigate a rapidly evolving job market. The platform addresses the challenge of making informed career decisions by mapping user skills to relevant job roles, estimating UAE salaries, suggesting industry-recognized certifications, and highlighting which roles are more or less likely to be affected by AI in the future.
 
 ---
 
