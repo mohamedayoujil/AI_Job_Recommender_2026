@@ -89,8 +89,8 @@ Choosing a career path has become increasingly complex due to rapid technologica
 
 ---
 ## 📷 ScreenShots
-
-<img width="1900" height="943" alt="image" src="https://github.com/user-attachments/assets/45ab1701-a6b3-48bf-9b8e-15fba5f59366" />
+<img width="3807" height="1758" alt="Screenshot 2026-01-15 165950" src="https://github.com/user-attachments/assets/9623a552-bbbf-4cd0-8753-017f5e5b4b90" />
+<img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/57996288-d2c6-460f-9d35-7247cd637ef5" />
 
 ---
 
@@ -137,11 +137,5 @@ This project demonstrates the ability to:
 
 This project is for educational and portfolio purposes.
 
----
 
-### ✅ Recruiter Note
-
-This project showcases **Python development**, **AI-aware product design**, **data-driven decision making**, and **professional UI implementation** — making it suitable for **Data, AI, Software, and Product-focused roles**.
-
----
 
