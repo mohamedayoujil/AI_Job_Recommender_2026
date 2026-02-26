@@ -131,7 +131,7 @@ This project demonstrates the ability to:
 
 ## 👤 Author
 
-**Mohamed Ayoujil**
+🧑‍💻 Author Name : **Mohamed Ayoujil**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-ayoujil/](https://www.linkedin.com/in/mohamed-ayoujil/)
 
@@ -139,11 +139,6 @@ This project demonstrates the ability to:
 
 ## 📜 License
 
-Copyright (c) 2026 Mohamed Ayoujil
-
-All rights reserved.
-
-This project is provided for viewing and evaluation purposes only.
-No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell any part of this software without explicit written permission from the author.
-
+All rights reserved. This project is provided for viewing and evaluation purposes only.  
+[📜 View Full License](License)
 
