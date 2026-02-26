@@ -131,7 +131,7 @@ This project demonstrates the ability to:
 
 ## 👤 Author
 
-🧑‍💻 Author Name : **Mohamed Ayoujil**
+🧑‍💻 Author Name: **Mohamed Ayoujil**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-ayoujil/](https://www.linkedin.com/in/mohamed-ayoujil/)
 
